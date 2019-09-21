@@ -1,3 +1,3 @@
 # Argparse
-python argparse library
+Use python argparse library to simulate ls command with -lah argument
 ![ls_argparse](https://github.com/PythonNewLearner/Argparse/blob/master/ls_argparse.png)
